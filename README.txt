@@ -6,10 +6,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Content created by Spark22 based on RMIT's 2021 Introduction to Information Technology assignment 3
 
 Content and ideas are own thoughts and work of Spark22 group members
-	Jack Burgess
-	Kevin Sweeney
-	Lachlan Wild
-	Zachary Scott
+	- Jack Burgess.
+	- Kevin Sweeney.
+	- Lachlan Wild.
+	- Zachary Scott.
 
 
 Credits:
